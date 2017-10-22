@@ -1,5 +1,6 @@
 // PongGame2.cpp : Defines the entry point for the console application.
 // It is important to read the readme.md to setup everything or else none of the code will work.
+//A few coding challenges: make the program follow OO design principles, keep track of user score, and add music!
 
 #include "stdafx.h"
 #include <SFML/Graphics.hpp>
