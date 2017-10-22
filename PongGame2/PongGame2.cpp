@@ -1,5 +1,5 @@
 // PongGame2.cpp : Defines the entry point for the console application.
-//
+// It is important to read the readme.md to setup everything or else none of the code will work.
 
 #include "stdafx.h"
 #include <SFML/Graphics.hpp>
